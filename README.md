@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abacaxis66
-- 👀 I’m interested in Games, Music, Literature
+- 👀 I’m interested in Games, Music, Literature, Linux
 - 🌱 I’m currently learning Linux, Programming, ShellScript
 - 💞️ I’m looking to collaborate on Basic Coding on Themes and Arch Personalization
 - 📫 How to reach me t.me/abacaxis66
